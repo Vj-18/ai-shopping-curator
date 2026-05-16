@@ -13,7 +13,7 @@ AI-Powered Fashion Shopping & Price Comparison Platform
 - AI Fashion Recommendations
 - Price Comparison
 - External Shopping Links
-- Dark Luxury UI
+
 
 ##  Tech Stack
 
